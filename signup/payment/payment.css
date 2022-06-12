@@ -1,0 +1,166 @@
+.step {
+    box-sizing: border-box;
+    position: relative;
+    z-index: 1;
+    display: block;
+    width: 25px;
+    height: 25px;
+    margin-bottom: 30px;
+    border: 4px solid #fff;
+    border-radius: 50%;
+    background-color: #f62f5e;
+  }
+  
+  .step:after {
+    position: absolute;
+    z-index: -1;
+    top: 5px;
+    left: 22px;
+    width: 270px;
+    height: 6px;
+    content: '';
+    background-color: #f62f5e;
+  }
+  .step:nth-child(3)::after{
+    position: absolute;
+    top: 5px;
+    left: 22px;
+    width: 250px;
+    height: 6px;
+    content: '';
+    background-color: #e9e3e3de;
+  }
+  @media (max-width:480px){
+    .step:after {
+      position: absolute;
+      z-index: -1;
+      top: 5px;
+      left: 22px;
+      width: 80px;
+      height: 6px;
+      content: '';
+      background-color: #f62f5e;
+    }
+    .step:nth-child(3)::after{
+      position: absolute;
+      top: 5px;
+      left: 22px;
+      width: 80px;
+      height: 6px;
+      content: '';
+      background-color: #e9e3e3de;
+    }
+  }
+  .step:before {
+    color: #2e2e2e;
+    position: absolute;
+    top: 40px;
+  }
+   
+  .step:last-child:after {
+    content: none;
+  }
+  .step:nth-child(1):before {
+    right: -50px;
+    content: 'Delivery';
+    color: #f62f5e;
+  }
+  .step:nth-child(2):before {
+    right: -87px;
+    content: 'Confirmation';
+    color: #f62f5e;
+  }
+  .step:nth-child(3):before {
+    right: -58px;
+    content: 'Payment';
+    color: #f62f5e;
+  }
+  .step:nth-child(4):before {
+    right: 4;
+    content: 'Finish';
+  }
+  @media (max-width:480px){
+    .step:nth-child(1):before {
+      right: -35px;
+      content: 'Delivery';
+      color: #f62f5e;
+    }
+    .step:nth-child(2):before {
+      right: -60px;
+      content: 'Confirmation';
+      color: #f62f5e;
+    }
+    .step:nth-child(3):before {
+      right: -40px;
+      content: 'Payment';
+      color: #f62f5e;
+    }
+    .step:nth-child(4):before {
+      right: 0;
+      content: 'Finish';
+    }
+  }
+  /* -----------------------------------------------------------
+  visa / paypal master design
+  -------------------------------------------------------------*/
+  .payment-method {
+    display: flex;
+    margin-bottom: 60px;
+    justify-content: space-around;
+  }
+   
+  .method {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    height: 122px;
+    padding-top: 20px;
+    cursor: pointer;
+    border: 1px solid transparent;
+    border-radius: 2px;
+    background-color: rgb(249, 249, 249);
+    justify-content: center;
+    align-items: center;
+  }
+  @media (max-width:480px){
+    .method {
+      display: flex;
+      flex-direction: column;
+      width: 200px;
+      height: 122px;
+      padding-top: 20px;
+      cursor: pointer;
+      border: 1px solid transparent;
+      border-radius: 2px;
+      background-color: rgb(249, 249, 249);
+      justify-content: center;
+      align-items: center;
+    }
+    .method img{
+      width: 70px;
+    }
+  }
+  .method:focus{
+    outline:1px solid blue;
+    z-index: 1;
+  }
+  .card-logos {
+    display: flex;
+    width: 150px;
+    justify-content: space-between;
+    align-items: center;
+  }
+   
+  .radio-input {
+    margin-top: 20px;
+  }
+   
+  input[type='radio'] {
+    display: inline-block;
+  }
+  /* ----------------------------------------------------------
+  input field
+  ----------------------------------------------------------- */
+  .outline-input-design:focus{
+    outline: 1px solid blue;
+  }

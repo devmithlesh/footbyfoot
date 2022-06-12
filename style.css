@@ -1,0 +1,125 @@
+.carousel-open:checked + .carousel-item {
+    position: static;
+    opacity: 100;
+}
+.carousel-item {
+    -webkit-transition: opacity 0.6s ease-out;
+    transition: opacity 0.6s ease-out;
+}
+#carousel-1:checked ~ .control-1,
+#carousel-2:checked ~ .control-2,
+#carousel-3:checked ~ .control-3 {
+    display: block;
+}
+.carousel-indicators {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    bottom: 2%;
+    left: 0;
+    right: 0;
+    text-align: center;
+    z-index: 10;
+}
+#carousel-1:checked ~ .control-1 ~ .carousel-indicators li:nth-child(1) .carousel-bullet,
+#carousel-2:checked ~ .control-2 ~ .carousel-indicators li:nth-child(2) .carousel-bullet,
+#carousel-3:checked ~ .control-3 ~ .carousel-indicators li:nth-child(3) .carousel-bullet {
+    color: #2b6cb0;  /*Set to match the Tailwind colour you want the active one to be */
+}
+/* img crousal */
+.backgraound-img-crousal-1{
+    width: 100%;
+    height: 85vh;
+    background-image:url(./all-type-shoes-img/front2.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.backgraound-img-crousal-2{
+    width: 100%;
+    height: 85vh;
+    background-image:  url(./all-type-shoes-img/front1.webp);
+    background-position: center;
+    background-size: cover;
+}
+.backgraound-img-crousal-3{
+    width: 100%;
+    height: 85vh;
+    background-image: url(./all-type-shoes-img/front12.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+/*-----------------------------------------------------------------------------
+start second section
+------------------------------------------------------------------------------- */
+.border-right-sec{
+    border-right: 1px solid #0000006b;
+  
+  }
+  /* --------------------------------------------------------------------------
+  men and women section
+  ----------------------------------------------------------------------------- */
+  /* men and women section */
+.image-center-css{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  .men-block-img{
+    width: 500px;
+    height: 450px;
+    object-fit: cover;
+  }
+  .men-block-img:hover{
+    filter: contrast(50%);
+  }
+  .border-down-men::after{
+    content: '';
+    width: 100px;
+    height: 1px;
+    display: block;
+    background-color: #000;
+    margin:8px auto;
+  }
+  /* ----------------------------------------------------------------
+  down navigation bar location
+  ------------------------------------------------------------------- */
+ .bottom-shadow-in-down-nav{
+    box-shadow: 0 5px 5px -5px rgba(0, 0, 0, 0.315);
+ }
+  /* ----------------------------------------------------------------
+ navigation bar meadia queary
+  ------------------------------------------------------------------- */
+  @media(max-width:760px){
+    .nav-bar-css{
+    position: absolute;
+    top: 0;
+    left: 3;
+    width: 100%;
+    height: 100%;
+    background-color: #fff;
+    padding-top: 40px;
+    font-size: 30px;
+    text-align: center;
+    z-index: 100;
+    color: #000;
+    }
+    .mith-nav{
+        width: 100%;
+        display:flex;
+        flex-direction: column;
+    }
+    .nav-bar-css .mrgn-top-btm{
+        margin: 30px 0;
+        width: 100%;
+    }
+    .nav-bar-css a:hover{
+        opacity: .5;
+    }
+    #burger{
+      z-index: 100;
+    }
+}
+
