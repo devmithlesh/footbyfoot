@@ -274,6 +274,9 @@ session_start();
                     <p class="hover:text-gray-800 cursor-pointer my-1">70% Off or more</p>
                 </div>
             </div>
+            <!--------------------------------------------------------------------------------
+             Product section start 
+            --------------------------------------------------------------------------------->
             <div class="w-9/12 container mx-auto grid xl:grid-cols-3 md:grid-cols-3 grid-cols-1 gap-4">
                 <div class="w-full border border-blue-100 hover:border-blue-500">
                     <a href="#">
@@ -282,18 +285,18 @@ session_start();
                         </div>
                         <div class="px-4 pb-4 text-sm">
                             <div>
-                                <h2 class="text-gray-900 font-bold text-base mb-2">Shoes shop 1</h2>
+                                <h2 class="text-gray-900 font-bold text-base mb-2">Sport Shoes</h2>
                                 <p class="text-xs"><i class="fa-solid fa-location-dot text-blue-500"></i> Ramamandi
                                     Jalandhar, Punjab 144001</p>
                             </div>
                             <div class="flex items-center justify-between py-2 border-b border-gray-300">
-                                <p><span class="text-blue-500"><i class="fa-solid fa-star"></i> </span>3.8</p>
-                                <p>34 Mins</p>
+                                <p><span class="text-blue-500"><i class="fa-solid fa-star"></i> </span>3.4</p>
+                                <p>15 Mins</p>
                                 <p>रु 399</p>
                             </div>
                             <div class="mt-4 flex items-center ">
                                 <span><img src="./icons8-discount-80.png" alt="" class="w-5 mr-2"></span>
-                                <p>60% Off | Use Try New</p>
+                                <p>30% Off | Use Try New</p>
                             </div>
                         </div>
                     </a>
@@ -305,18 +308,18 @@ session_start();
                         </div>
                         <div class="px-4 pb-4 text-sm">
                             <div>
-                                <h2 class="text-gray-900 font-bold text-base mb-2">Shoes shop 2</h2>
+                                <h2 class="text-gray-900 font-bold text-base mb-2">Red Shoes</h2>
                                 <p class="text-xs"><i class="fa-solid fa-location-dot text-blue-500"></i> Ramamandi
                                     Jalandhar, Punjab 144001</p>
                             </div>
                             <div class="flex items-center justify-between py-2 border-b border-gray-300">
                                 <p><span class="text-blue-500"><i class="fa-solid fa-star"></i> </span>3.8</p>
-                                <p>34 Mins</p>
-                                <p>रु 450</p>
+                                <p>30 Mins</p>
+                                <p>रु 350</p>
                             </div>
                             <div class="mt-4 flex items-center ">
                                 <span><img src="./icons8-discount-80.png" alt="" class="w-5 mr-2"></span>
-                                <p>60% Off | Use Try New</p>
+                                <p>10% Off | Use Try New</p>
                             </div>
                         </div>
                     </a>
@@ -328,18 +331,18 @@ session_start();
                         </div>
                         <div class="px-4 pb-4 text-sm">
                             <div>
-                                <h2 class="text-gray-900 font-bold text-base mb-2">Shoes shop 3</h2>
+                                <h2 class="text-gray-900 font-bold text-base mb-2">Yellow Shoes</h2>
                                 <p class="text-xs"><i class="fa-solid fa-location-dot text-blue-500"></i> Ramamandi
                                     Jalandhar, Punjab 144001</p>
                             </div>
                             <div class="flex items-center justify-between py-2 border-b border-gray-300">
                                 <p><span class="text-blue-500"><i class="fa-solid fa-star"></i> </span>3.8</p>
-                                <p>34 Mins</p>
-                                <p>रु 500</p>
+                                <p>20 Mins</p>
+                                <p>रु 300</p>
                             </div>
                             <div class="mt-4 flex items-center ">
                                 <span><img src="./icons8-discount-80.png" alt="" class="w-5 mr-2"></span>
-                                <p>60% Off | Use Try New</p>
+                                <p>40% Off | Use Try New</p>
                             </div>
                         </div>
                     </a>
@@ -352,7 +355,7 @@ session_start();
                         <div class="px-4 pb-4 text-sm">
                             <div>
                                 <h2 class="text-gray-900 font-bold text-base mb-2">
-                                    Shoes shop 4
+                                    Red & Yellow Shoes Combination
                                 </h2>
                                 <p class="text-xs">
                                     <i class="fa-solid fa-location-dot text-blue-500"></i>
@@ -361,14 +364,14 @@ session_start();
                             </div>
                             <div class="flex items-center justify-between py-2 border-b border-gray-300">
                                 <p>
-                                    <span class="text-blue-500"><i class="fa-solid fa-star"></i> </span>3.8
+                                    <span class="text-blue-500"><i class="fa-solid fa-star"></i> </span>4.0
                                 </p>
-                                <p>34 Mins</p>
+                                <p>10 Mins</p>
                                 <p>रु 600</p>
                             </div>
                             <div class="mt-4 flex items-center">
                                 <span><img src="./icons8-discount-80.png" alt="" class="w-5 mr-2" /></span>
-                                <p>60% Off | Use Try New</p>
+                                <p>50% Off | Use Try New</p>
                             </div>
                         </div>
                     </a>
@@ -381,7 +384,7 @@ session_start();
                         <div class="px-4 pb-4 text-sm">
                             <div>
                                 <h2 class="text-gray-900 font-bold text-base mb-2">
-                                    Shoes shop 5
+                                    White Sports Shoes
                                 </h2>
                                 <p class="text-xs">
                                     <i class="fa-solid fa-location-dot text-blue-500"></i>
@@ -390,14 +393,14 @@ session_start();
                             </div>
                             <div class="flex items-center justify-between py-2 border-b border-gray-300">
                                 <p>
-                                    <span class="text-blue-500"><i class="fa-solid fa-star"></i> </span>3.8
+                                    <span class="text-blue-500"><i class="fa-solid fa-star"></i> </span>4.8
                                 </p>
-                                <p>34 Mins</p>
-                                <p>रु 350</p>
+                                <p>15 Mins</p>
+                                <p>रु 450</p>
                             </div>
                             <div class="mt-4 flex items-center">
                                 <span><img src="./icons8-discount-80.png" alt="" class="w-5 mr-2" /></span>
-                                <p>60% Off | Use Try New</p>
+                                <p>30% Off | Use Try New</p>
                             </div>
                         </div>
                     </a>
@@ -410,7 +413,7 @@ session_start();
                         <div class="px-4 pb-4 text-sm">
                             <div>
                                 <h2 class="text-gray-900 font-bold text-base mb-2">
-                                    Shoes shop 6
+                                    Black Shoes
                                 </h2>
                                 <p class="text-xs">
                                     <i class="fa-solid fa-location-dot text-blue-500"></i>
@@ -419,14 +422,14 @@ session_start();
                             </div>
                             <div class="flex items-center justify-between py-2 border-b border-gray-300">
                                 <p>
-                                    <span class="text-blue-500"><i class="fa-solid fa-star"></i> </span>3.8
+                                    <span class="text-blue-500"><i class="fa-solid fa-star"></i> </span>3.7
                                 </p>
-                                <p>34 Mins</p>
+                                <p>28 Mins</p>
                                 <p>रु 650</p>
                             </div>
                             <div class="mt-4 flex items-center">
                                 <span><img src="./icons8-discount-80.png" alt="" class="w-5 mr-2" /></span>
-                                <p>60% Off | Use Try New</p>
+                                <p>20% Off | Use Try New</p>
                             </div>
                         </div>
                     </a>
@@ -439,7 +442,7 @@ session_start();
                         <div class="px-4 pb-4 text-sm">
                             <div>
                                 <h2 class="text-gray-900 font-bold text-base mb-2">
-                                    Shoes shop 7
+                                    Black Shoes
                                 </h2>
                                 <p class="text-xs">
                                     <i class="fa-solid fa-location-dot text-blue-500"></i>
@@ -468,7 +471,7 @@ session_start();
                         <div class="px-4 pb-4 text-sm">
                             <div>
                                 <h2 class="text-gray-900 font-bold text-base mb-2">
-                                    Shoes shop 8
+                                    Gray Sport Shoes
                                 </h2>
                                 <p class="text-xs">
                                     <i class="fa-solid fa-location-dot text-blue-500"></i>
@@ -477,14 +480,14 @@ session_start();
                             </div>
                             <div class="flex items-center justify-between py-2 border-b border-gray-300">
                                 <p>
-                                    <span class="text-blue-500"><i class="fa-solid fa-star"></i> </span>3.8
+                                    <span class="text-blue-500"><i class="fa-solid fa-star"></i> </span>3.9
                                 </p>
                                 <p>34 Mins</p>
                                 <p>रु 599</p>
                             </div>
                             <div class="mt-4 flex items-center">
                                 <span><img src="./icons8-discount-80.png" alt="" class="w-5 mr-2" /></span>
-                                <p>60% Off | Use Try New</p>
+                                <p>40% Off | Use Try New</p>
                             </div>
                         </div>
                     </a>
@@ -497,7 +500,7 @@ session_start();
                         <div class="px-4 pb-4 text-sm">
                             <div>
                                 <h2 class="text-gray-900 font-bold text-base mb-2">
-                                    Shoes shop 9
+                                    Dark Gray Shoes
                                 </h2>
                                 <p class="text-xs">
                                     <i class="fa-solid fa-location-dot text-blue-500"></i>
@@ -506,14 +509,14 @@ session_start();
                             </div>
                             <div class="flex items-center justify-between py-2 border-b border-gray-300">
                                 <p>
-                                    <span class="text-blue-500"><i class="fa-solid fa-star"></i> </span>3.8
+                                    <span class="text-blue-500"><i class="fa-solid fa-star"></i> </span>4.8
                                 </p>
                                 <p>34 Mins</p>
                                 <p>रु 499</p>
                             </div>
                             <div class="mt-4 flex items-center">
                                 <span><img src="./icons8-discount-80.png" alt="" class="w-5 mr-2" /></span>
-                                <p>60% Off | Use Try New</p>
+                                <p>50% Off | Use Try New</p>
                             </div>
                         </div>
                     </a>
@@ -526,7 +529,7 @@ session_start();
                         <div class="px-4 pb-4 text-sm">
                             <div>
                                 <h2 class="text-gray-900 font-bold text-base mb-2">
-                                    Shoes shop 10
+                                    Light Gray Shoes
                                 </h2>
                                 <p class="text-xs">
                                     <i class="fa-solid fa-location-dot text-blue-500"></i>
@@ -535,14 +538,14 @@ session_start();
                             </div>
                             <div class="flex items-center justify-between py-2 border-b border-gray-300">
                                 <p>
-                                    <span class="text-blue-500"><i class="fa-solid fa-star"></i> </span>3.8
+                                    <span class="text-blue-500"><i class="fa-solid fa-star"></i> </span>5.0
                                 </p>
                                 <p>34 Mins</p>
                                 <p>रु 700</p>
                             </div>
                             <div class="mt-4 flex items-center">
                                 <span><img src="./icons8-discount-80.png" alt="" class="w-5 mr-2" /></span>
-                                <p>60% Off | Use Try New</p>
+                                <p>10% Off | Use Try New</p>
                             </div>
                         </div>
                     </a>
@@ -555,7 +558,7 @@ session_start();
                         <div class="px-4 pb-4 text-sm">
                             <div>
                                 <h2 class="text-gray-900 font-bold text-base mb-2">
-                                    Shoes shop 12
+                                    Black Sports Shoes
                                 </h2>
                                 <p class="text-xs">
                                     <i class="fa-solid fa-location-dot text-blue-500"></i>
@@ -564,14 +567,14 @@ session_start();
                             </div>
                             <div class="flex items-center justify-between py-2 border-b border-gray-300">
                                 <p>
-                                    <span class="text-blue-500"><i class="fa-solid fa-star"></i> </span>3.8
+                                    <span class="text-blue-500"><i class="fa-solid fa-star"></i> </span>4.8
                                 </p>
-                                <p>34 Mins</p>
+                                <p>10 Mins</p>
                                 <p>रु 460</p>
                             </div>
                             <div class="mt-4 flex items-center">
                                 <span><img src="./icons8-discount-80.png" alt="" class="w-5 mr-2" /></span>
-                                <p>60% Off | Use Try New</p>
+                                <p>20% Off | Use Try New</p>
                             </div>
                         </div>
                     </a>
@@ -584,7 +587,7 @@ session_start();
                         <div class="px-4 pb-4 text-sm">
                             <div>
                                 <h2 class="text-gray-900 font-bold text-base mb-2">
-                                    Shoes shop 12
+                                    Dark Blue Shoes
                                 </h2>
                                 <p class="text-xs">
                                     <i class="fa-solid fa-location-dot text-blue-500"></i>
@@ -593,7 +596,7 @@ session_start();
                             </div>
                             <div class="flex items-center justify-between py-2 border-b border-gray-300">
                                 <p>
-                                    <span class="text-blue-500"><i class="fa-solid fa-star"></i> </span>3.8
+                                    <span class="text-blue-500"><i class="fa-solid fa-star"></i> </span>4.2
                                 </p>
                                 <p>34 Mins</p>
                                 <p>रु 799</p>

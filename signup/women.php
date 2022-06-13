@@ -285,6 +285,9 @@ session_start();
             <p class="hover:text-gray-800 cursor-pointer my-1">70% Off or more</p>
           </div>
         </div>
+        <!--------------------------------------------------------------------------------
+        Product section start
+        ---------------------------------------------------------------------------------->
         <div
           class="w-9/12 container mx-auto grid xl:grid-cols-3 md:grid-cols-3 grid-cols-1 gap-4"
         >
@@ -296,7 +299,7 @@ session_start();
               <div class="px-4 pb-4 text-sm">
                 <div>
                   <h2 class="text-gray-900 font-bold text-base mb-2">
-                    Shoes shop 1
+                    Light Pink Shoes
                   </h2>
                   <p class="text-xs">
                     <i class="fa-solid fa-location-dot text-blue-500"></i>
@@ -321,7 +324,7 @@ session_start();
                       alt=""
                       class="w-5 mr-2"
                   /></span>
-                  <p>60% Off | Use Try New</p>
+                  <p>20% Off | Use Try New</p>
                 </div>
               </div>
             </a>
@@ -334,7 +337,7 @@ session_start();
               <div class="px-4 pb-4 text-sm">
                 <div>
                   <h2 class="text-gray-900 font-bold text-base mb-2">
-                    Shoes shop 2
+                    Dark Pink Asian Shoes
                   </h2>
                   <p class="text-xs">
                     <i class="fa-solid fa-location-dot text-blue-500"></i>
@@ -347,10 +350,10 @@ session_start();
                   <p>
                     <span class="text-blue-500"
                       ><i class="fa-solid fa-star"></i> </span
-                    >3.8
+                    >4.8
                   </p>
                   <p>34 Mins</p>
-                  <p>रु 350</p>
+                  <p>रु 450</p>
                 </div>
                 <div class="mt-4 flex items-center">
                   <span
@@ -359,7 +362,7 @@ session_start();
                       alt=""
                       class="w-5 mr-2"
                   /></span>
-                  <p>60% Off | Use Try New</p>
+                  <p>30% Off | Use Try New</p>
                 </div>
               </div>
             </a>
@@ -372,7 +375,7 @@ session_start();
               <div class="px-4 pb-4 text-sm">
                 <div>
                   <h2 class="text-gray-900 font-bold text-base mb-2">
-                    Shoes shop 3
+                    Sky Blue Sports Shoes
                   </h2>
                   <p class="text-xs">
                     <i class="fa-solid fa-location-dot text-blue-500"></i>
@@ -385,10 +388,10 @@ session_start();
                   <p>
                     <span class="text-blue-500"
                       ><i class="fa-solid fa-star"></i> </span
-                    >3.8
+                    >5.0
                   </p>
-                  <p>34 Mins</p>
-                  <p>रु 499</p>
+                  <p>10 Mins</p>
+                  <p>रु 799</p>
                 </div>
                 <div class="mt-4 flex items-center">
                   <span
@@ -397,7 +400,7 @@ session_start();
                       alt=""
                       class="w-5 mr-2"
                   /></span>
-                  <p>60% Off | Use Try New</p>
+                  <p>30% Off | Use Try New</p>
                 </div>
               </div>
             </a>
@@ -414,7 +417,7 @@ session_start();
               <div class="px-4 pb-4 text-sm">
                 <div>
                   <h2 class="text-gray-900 font-bold text-base mb-2">
-                    Shoes shop 4
+                    Light Gray Shoes
                   </h2>
                   <p class="text-xs">
                     <i class="fa-solid fa-location-dot text-blue-500"></i>
@@ -427,7 +430,7 @@ session_start();
                   <p>
                     <span class="text-blue-500"
                       ><i class="fa-solid fa-star"></i> </span
-                    >3.8
+                    >3.6
                   </p>
                   <p>34 Mins</p>
                   <p>रु 399</p>
@@ -439,7 +442,7 @@ session_start();
                       alt=""
                       class="w-5 mr-2"
                   /></span>
-                  <p>60% Off | Use Try New</p>
+                  <p>30% Off | Use Try New</p>
                 </div>
               </div>
             </a>
@@ -456,7 +459,7 @@ session_start();
               <div class="px-4 pb-4 text-sm">
                 <div>
                   <h2 class="text-gray-900 font-bold text-base mb-2">
-                    Shoes shop 5
+                    Asian Sports Shoes
                   </h2>
                   <p class="text-xs">
                     <i class="fa-solid fa-location-dot text-blue-500"></i>
@@ -469,9 +472,9 @@ session_start();
                   <p>
                     <span class="text-blue-500"
                       ><i class="fa-solid fa-star"></i> </span
-                    >3.8
+                    >3.5
                   </p>
-                  <p>34 Mins</p>
+                  <p>30 Mins</p>
                   <p>रु 600</p>
                 </div>
                 <div class="mt-4 flex items-center">
@@ -481,7 +484,7 @@ session_start();
                       alt=""
                       class="w-5 mr-2"
                   /></span>
-                  <p>60% Off | Use Try New</p>
+                  <p>40% Off | Use Try New</p>
                 </div>
               </div>
             </a>
@@ -498,7 +501,7 @@ session_start();
               <div class="px-4 pb-4 text-sm">
                 <div>
                   <h2 class="text-gray-900 font-bold text-base mb-2">
-                    Shoes shop 6
+                    Sky Blue Shoes
                   </h2>
                   <p class="text-xs">
                     <i class="fa-solid fa-location-dot text-blue-500"></i>
@@ -511,9 +514,9 @@ session_start();
                   <p>
                     <span class="text-blue-500"
                       ><i class="fa-solid fa-star"></i> </span
-                    >3.8
+                    >4.0
                   </p>
-                  <p>34 Mins</p>
+                  <p>38 Mins</p>
                   <p>रु 599</p>
                 </div>
                 <div class="mt-4 flex items-center">
@@ -523,7 +526,7 @@ session_start();
                       alt=""
                       class="w-5 mr-2"
                   /></span>
-                  <p>60% Off | Use Try New</p>
+                  <p>10% Off | Use Try New</p>
                 </div>
               </div>
             </a>
@@ -540,7 +543,7 @@ session_start();
               <div class="px-4 pb-4 text-sm">
                 <div>
                   <h2 class="text-gray-900 font-bold text-base mb-2">
-                    Shoes shop 7
+                    White Shoe
                   </h2>
                   <p class="text-xs">
                     <i class="fa-solid fa-location-dot text-blue-500"></i>
@@ -565,7 +568,7 @@ session_start();
                       alt=""
                       class="w-5 mr-2"
                   /></span>
-                  <p>60% Off | Use Try New</p>
+                  <p>30% Off | Use Try New</p>
                 </div>
               </div>
             </a>
@@ -582,7 +585,7 @@ session_start();
               <div class="px-4 pb-4 text-sm">
                 <div>
                   <h2 class="text-gray-900 font-bold text-base mb-2">
-                    Shoes shop 8
+                    White Sport Shoes
                   </h2>
                   <p class="text-xs">
                     <i class="fa-solid fa-location-dot text-blue-500"></i>
@@ -595,10 +598,10 @@ session_start();
                   <p>
                     <span class="text-blue-500"
                       ><i class="fa-solid fa-star"></i> </span
-                    >3.8
+                    >3.2
                   </p>
                   <p>34 Mins</p>
-                  <p>रु 899</p>
+                  <p>रु 499</p>
                 </div>
                 <div class="mt-4 flex items-center">
                   <span
@@ -607,7 +610,7 @@ session_start();
                       alt=""
                       class="w-5 mr-2"
                   /></span>
-                  <p>60% Off | Use Try New</p>
+                  <p>10% Off | Use Try New</p>
                 </div>
               </div>
             </a>
@@ -624,7 +627,7 @@ session_start();
               <div class="px-4 pb-4 text-sm">
                 <div>
                   <h2 class="text-gray-900 font-bold text-base mb-2">
-                    Shoes shop 9
+                    Light Pink Shoes
                   </h2>
                   <p class="text-xs">
                     <i class="fa-solid fa-location-dot text-blue-500"></i>
@@ -637,9 +640,9 @@ session_start();
                   <p>
                     <span class="text-blue-500"
                       ><i class="fa-solid fa-star"></i> </span
-                    >3.8
+                    >3.5
                   </p>
-                  <p>34 Mins</p>
+                  <p>30 Mins</p>
                   <p>रु 300</p>
                 </div>
                 <div class="mt-4 flex items-center">
@@ -649,7 +652,7 @@ session_start();
                       alt=""
                       class="w-5 mr-2"
                   /></span>
-                  <p>60% Off | Use Try New</p>
+                  <p>30% Off | Use Try New</p>
                 </div>
               </div>
             </a>
@@ -666,7 +669,7 @@ session_start();
               <div class="px-4 pb-4 text-sm">
                 <div>
                   <h2 class="text-gray-900 font-bold text-base mb-2">
-                    Shoes shop 10
+                    White Shoes 
                   </h2>
                   <p class="text-xs">
                     <i class="fa-solid fa-location-dot text-blue-500"></i>
@@ -679,7 +682,7 @@ session_start();
                   <p>
                     <span class="text-blue-500"
                       ><i class="fa-solid fa-star"></i> </span
-                    >3.8
+                    >3.3
                   </p>
                   <p>34 Mins</p>
                   <p>रु 350</p>
@@ -691,7 +694,7 @@ session_start();
                       alt=""
                       class="w-5 mr-2"
                   /></span>
-                  <p>60% Off | Use Try New</p>
+                  <p>20% Off | Use Try New</p>
                 </div>
               </div>
             </a>
@@ -708,7 +711,7 @@ session_start();
               <div class="px-4 pb-4 text-sm">
                 <div>
                   <h2 class="text-gray-900 font-bold text-base mb-2">
-                    Shoes shop 11
+                    Casual Shoes
                   </h2>
                   <p class="text-xs">
                     <i class="fa-solid fa-location-dot text-blue-500"></i>
@@ -723,7 +726,7 @@ session_start();
                       ><i class="fa-solid fa-star"></i> </span
                     >3.8
                   </p>
-                  <p>34 Mins</p>
+                  <p>31 Mins</p>
                   <p>रु 500</p>
                 </div>
                 <div class="mt-4 flex items-center">
@@ -733,7 +736,7 @@ session_start();
                       alt=""
                       class="w-5 mr-2"
                   /></span>
-                  <p>60% Off | Use Try New</p>
+                  <p>40% Off | Use Try New</p>
                 </div>
               </div>
             </a>
@@ -750,7 +753,7 @@ session_start();
               <div class="px-4 pb-4 text-sm">
                 <div>
                   <h2 class="text-gray-900 font-bold text-base mb-2">
-                    Shoes shop 12
+                    Casual Pink 
                   </h2>
                   <p class="text-xs">
                     <i class="fa-solid fa-location-dot text-blue-500"></i>
@@ -763,9 +766,9 @@ session_start();
                   <p>
                     <span class="text-blue-500"
                       ><i class="fa-solid fa-star"></i> </span
-                    >3.8
+                    >4.5
                   </p>
-                  <p>34 Mins</p>
+                  <p>10 Mins</p>
                   <p>रु 650</p>
                 </div>
                 <div class="mt-4 flex items-center">
@@ -775,7 +778,7 @@ session_start();
                       alt=""
                       class="w-5 mr-2"
                   /></span>
-                  <p>60% Off | Use Try New</p>
+                  <p>40% Off | Use Try New</p>
                 </div>
               </div>
             </a>

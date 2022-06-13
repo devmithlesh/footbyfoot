@@ -76,7 +76,7 @@
                     hidden="" />
                 <div class="carousel-item absolute opacity-0 backgraound-img-crousal-2">
                     <div class="absolute bottom-12 left-0 xl:right-0 md:right-0 text-center">
-                        <h2 class="text-5xl font-bold text-black-100 drop-shadow-xl">
+                        <h2 class="text-5xl font-bold text-gray-100 drop-shadow-4xl">
                             IF THE SHOE FITS<span class="text-blue-500">, BUY IT!</span>
                         </h2>
                         <p class="text-gray-100 tracking-wider">

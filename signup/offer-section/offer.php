@@ -84,463 +84,338 @@ session_start();
       <div
         class="container xl:px-20 md:px-20 px-4 py-10 mx-auto grid xl:grid-cols-4 md:grid-cols-4 grid-cols-1 gap-4"
       >
-        <!-- card first row -->
-        <div class="w-full border border-blue-100 hover:border-blue-500">
-          <a href="#">
-            <div class="xl:w-56 lg:w-56 w-40 mx-auto">
-              <img src="../png-shoes/11.png" alt="shoes-img" class="w-full" />
+                <div class="w-full border border-blue-100 hover:border-blue-500">
+                    <a href="#">
+                        <div class="xl:w-56 lg:w-56 w-40 mx-auto ">
+                            <img src="../png-shoes/11.png" alt="shoes-img" class="w-full">
+                        </div>
+                        <div class="px-4 pb-4 text-sm">
+                            <div>
+                                <h2 class="text-gray-900 font-bold text-base mb-2">Sport Shoes</h2>
+                                <p class="text-xs"><i class="fa-solid fa-location-dot text-blue-500"></i> Ramamandi
+                                    Jalandhar, Punjab 144001</p>
+                            </div>
+                            <div class="flex items-center justify-between py-2 border-b border-gray-300">
+                                <p><span class="text-blue-500"><i class="fa-solid fa-star"></i> </span>3.4</p>
+                                <p>15 Mins</p>
+                                <p>रु 399</p>
+                            </div>
+                            <div class="mt-4 flex items-center ">
+                                <span><img src="../icons8-discount-80.png" alt="" class="w-5 mr-2"></span>
+                                <p>30% Off | Use Try New</p>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="w-full border border-blue-100 hover:border-blue-500">
+                    <a href="#">
+                        <div class="xl:w-56 lg:w-56 w-40 mx-auto ">
+                            <img src="../png-shoes/12.png" alt="shoes-img" class="w-full">
+                        </div>
+                        <div class="px-4 pb-4 text-sm">
+                            <div>
+                                <h2 class="text-gray-900 font-bold text-base mb-2">Red Shoes</h2>
+                                <p class="text-xs"><i class="fa-solid fa-location-dot text-blue-500"></i> Ramamandi
+                                    Jalandhar, Punjab 144001</p>
+                            </div>
+                            <div class="flex items-center justify-between py-2 border-b border-gray-300">
+                                <p><span class="text-blue-500"><i class="fa-solid fa-star"></i> </span>3.8</p>
+                                <p>30 Mins</p>
+                                <p>रु 350</p>
+                            </div>
+                            <div class="mt-4 flex items-center ">
+                                <span><img src="../icons8-discount-80.png" alt="" class="w-5 mr-2"></span>
+                                <p>10% Off | Use Try New</p>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="w-full border border-blue-100 hover:border-blue-500">
+                    <a href="#">
+                        <div class="xl:w-56 lg:w-56 w-40 mx-auto ">
+                            <img src="../png-shoes/13.png" alt="shoes-img" class="w-full">
+                        </div>
+                        <div class="px-4 pb-4 text-sm">
+                            <div>
+                                <h2 class="text-gray-900 font-bold text-base mb-2">Yellow Shoes</h2>
+                                <p class="text-xs"><i class="fa-solid fa-location-dot text-blue-500"></i> Ramamandi
+                                    Jalandhar, Punjab 144001</p>
+                            </div>
+                            <div class="flex items-center justify-between py-2 border-b border-gray-300">
+                                <p><span class="text-blue-500"><i class="fa-solid fa-star"></i> </span>3.8</p>
+                                <p>20 Mins</p>
+                                <p>रु 300</p>
+                            </div>
+                            <div class="mt-4 flex items-center ">
+                                <span><img src="../icons8-discount-80.png" alt="" class="w-5 mr-2"></span>
+                                <p>40% Off | Use Try New</p>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="w-full border border-blue-100 hover:border-blue-500">
+                    <a href="#">
+                        <div class="xl:w-56 lg:w-56 w-40 mx-auto">
+                            <img src="../images-shoes/row13.jpeg" alt="shoes-img" class="w-full py-10" />
+                        </div>
+                        <div class="px-4 pb-4 text-sm">
+                            <div>
+                                <h2 class="text-gray-900 font-bold text-base mb-2">
+                                    Red & Yellow Shoes Comb.
+                                </h2>
+                                <p class="text-xs">
+                                    <i class="fa-solid fa-location-dot text-blue-500"></i>
+                                    Ramamandi Jalandhar, Punjab 144001
+                                </p>
+                            </div>
+                            <div class="flex items-center justify-between py-2 border-b border-gray-300">
+                                <p>
+                                    <span class="text-blue-500"><i class="fa-solid fa-star"></i> </span>4.0
+                                </p>
+                                <p>10 Mins</p>
+                                <p>रु 600</p>
+                            </div>
+                            <div class="mt-4 flex items-center">
+                                <span><img src="../icons8-discount-80.png" alt="" class="w-5 mr-2" /></span>
+                                <p>50% Off | Use Try New</p>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="w-full border border-blue-100 hover:border-blue-500">
+                    <a href="#">
+                        <div class="w-xl:w-56 lg:w-56 w-40 mx-auto">
+                            <img src="../images-shoes/row14.jpeg" alt="shoes-img" class="w-full py-6" />
+                        </div>
+                        <div class="px-4 pb-4 text-sm">
+                            <div>
+                                <h2 class="text-gray-900 font-bold text-base mb-2">
+                                    White Sports Shoes
+                                </h2>
+                                <p class="text-xs">
+                                    <i class="fa-solid fa-location-dot text-blue-500"></i>
+                                    Ramamandi Jalandhar, Punjab 144001
+                                </p>
+                            </div>
+                            <div class="flex items-center justify-between py-2 border-b border-gray-300">
+                                <p>
+                                    <span class="text-blue-500"><i class="fa-solid fa-star"></i> </span>4.8
+                                </p>
+                                <p>15 Mins</p>
+                                <p>रु 450</p>
+                            </div>
+                            <div class="mt-4 flex items-center">
+                                <span><img src="../icons8-discount-80.png" alt="" class="w-5 mr-2" /></span>
+                                <p>30% Off | Use Try New</p>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="w-full border border-blue-100 hover:border-blue-500">
+                    <a href="#">
+                        <div class="w-xl:w-56 lg:w-56 w-40 mx-auto">
+                            <img src="../images-shoes/row15.jpeg" alt="shoes-img" class="w-full py-6" />
+                        </div>
+                        <div class="px-4 pb-4 text-sm">
+                            <div>
+                                <h2 class="text-gray-900 font-bold text-base mb-2">
+                                    Black Shoes
+                                </h2>
+                                <p class="text-xs">
+                                    <i class="fa-solid fa-location-dot text-blue-500"></i>
+                                    Ramamandi Jalandhar, Punjab 144001
+                                </p>
+                            </div>
+                            <div class="flex items-center justify-between py-2 border-b border-gray-300">
+                                <p>
+                                    <span class="text-blue-500"><i class="fa-solid fa-star"></i> </span>3.7
+                                </p>
+                                <p>28 Mins</p>
+                                <p>रु 650</p>
+                            </div>
+                            <div class="mt-4 flex items-center">
+                                <span><img src="../icons8-discount-80.png" alt="" class="w-5 mr-2" /></span>
+                                <p>20% Off | Use Try New</p>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="w-full border border-blue-100 hover:border-blue-500">
+                    <a href="#">
+                        <div class="w-xl:w-56 lg:w-56 w-40 mx-auto">
+                            <img src="../images-shoes/row16.jpeg" alt="shoes-img" class="w-full py-11" />
+                        </div>
+                        <div class="px-4 pb-4 text-sm">
+                            <div>
+                                <h2 class="text-gray-900 font-bold text-base mb-2">
+                                    Black Shoes
+                                </h2>
+                                <p class="text-xs">
+                                    <i class="fa-solid fa-location-dot text-blue-500"></i>
+                                    Ramamandi Jalandhar, Punjab 144001
+                                </p>
+                            </div>
+                            <div class="flex items-center justify-between py-2 border-b border-gray-300">
+                                <p>
+                                    <span class="text-blue-500"><i class="fa-solid fa-star"></i> </span>3.8
+                                </p>
+                                <p>34 Mins</p>
+                                <p>रु 800</p>
+                            </div>
+                            <div class="mt-4 flex items-center">
+                                <span><img src="../icons8-discount-80.png" alt="" class="w-5 mr-2" /></span>
+                                <p>60% Off | Use Try New</p>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="w-full border border-blue-100 hover:border-blue-500">
+                    <a href="#">
+                        <div class="xl:w-56 lg:w-56 w-40 mx-auto">
+                            <img src="../images-shoes/row17.jpeg" alt="shoes-img" class="w-full py-5" />
+                        </div>
+                        <div class="px-4 pb-4 text-sm">
+                            <div>
+                                <h2 class="text-gray-900 font-bold text-base mb-2">
+                                    Gray Sport Shoes
+                                </h2>
+                                <p class="text-xs">
+                                    <i class="fa-solid fa-location-dot text-blue-500"></i>
+                                    Ramamandi Jalandhar, Punjab 144001
+                                </p>
+                            </div>
+                            <div class="flex items-center justify-between py-2 border-b border-gray-300">
+                                <p>
+                                    <span class="text-blue-500"><i class="fa-solid fa-star"></i> </span>3.9
+                                </p>
+                                <p>34 Mins</p>
+                                <p>रु 599</p>
+                            </div>
+                            <div class="mt-4 flex items-center">
+                                <span><img src="../icons8-discount-80.png" alt="" class="w-5 mr-2" /></span>
+                                <p>40% Off | Use Try New</p>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="w-full border border-blue-100 hover:border-blue-500">
+                    <a href="#">
+                        <div class="xl:w-56 lg:w-56 w-40 mx-auto">
+                            <img src="../images-shoes/row18.jpeg" alt="shoes-img" class="w-full py-9" />
+                        </div>
+                        <div class="px-4 pb-4 text-sm">
+                            <div>
+                                <h2 class="text-gray-900 font-bold text-base mb-2">
+                                    Dark Gray Shoes
+                                </h2>
+                                <p class="text-xs">
+                                    <i class="fa-solid fa-location-dot text-blue-500"></i>
+                                    Ramamandi Jalandhar, Punjab 144001
+                                </p>
+                            </div>
+                            <div class="flex items-center justify-between py-2 border-b border-gray-300">
+                                <p>
+                                    <span class="text-blue-500"><i class="fa-solid fa-star"></i> </span>4.8
+                                </p>
+                                <p>34 Mins</p>
+                                <p>रु 499</p>
+                            </div>
+                            <div class="mt-4 flex items-center">
+                                <span><img src="../icons8-discount-80.png" alt="" class="w-5 mr-2" /></span>
+                                <p>50% Off | Use Try New</p>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="w-full border border-blue-100 hover:border-blue-500">
+                    <a href="#">
+                        <div class="xl:w-56 lg:w-56 w-40 mx-auto">
+                            <img src="../images-shoes/row19.jpeg" alt="shoes-img" class="w-full py-9" />
+                        </div>
+                        <div class="px-4 pb-4 text-sm">
+                            <div>
+                                <h2 class="text-gray-900 font-bold text-base mb-2">
+                                    Light Gray Shoes
+                                </h2>
+                                <p class="text-xs">
+                                    <i class="fa-solid fa-location-dot text-blue-500"></i>
+                                    Ramamandi Jalandhar, Punjab 144001
+                                </p>
+                            </div>
+                            <div class="flex items-center justify-between py-2 border-b border-gray-300">
+                                <p>
+                                    <span class="text-blue-500"><i class="fa-solid fa-star"></i> </span>5.0
+                                </p>
+                                <p>34 Mins</p>
+                                <p>रु 700</p>
+                            </div>
+                            <div class="mt-4 flex items-center">
+                                <span><img src="../icons8-discount-80.png" alt="" class="w-5 mr-2" /></span>
+                                <p>10% Off | Use Try New</p>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="w-full border border-blue-100 hover:border-blue-500">
+                    <a href="#">
+                        <div class="xl:w-56 lg:w-56 w-40 mx-auto">
+                            <img src="../images-shoes/row112.jpeg" alt="shoes-img" class="w-full py-10" />
+                        </div>
+                        <div class="px-4 pb-4 text-sm">
+                            <div>
+                                <h2 class="text-gray-900 font-bold text-base mb-2">
+                                    Black Sports Shoes
+                                </h2>
+                                <p class="text-xs">
+                                    <i class="fa-solid fa-location-dot text-blue-500"></i>
+                                    Ramamandi Jalandhar, Punjab 144001
+                                </p>
+                            </div>
+                            <div class="flex items-center justify-between py-2 border-b border-gray-300">
+                                <p>
+                                    <span class="text-blue-500"><i class="fa-solid fa-star"></i> </span>4.8
+                                </p>
+                                <p>10 Mins</p>
+                                <p>रु 460</p>
+                            </div>
+                            <div class="mt-4 flex items-center">
+                                <span><img src="../icons8-discount-80.png" alt="" class="w-5 mr-2" /></span>
+                                <p>20% Off | Use Try New</p>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="w-full border border-blue-100 hover:border-blue-500">
+                    <a href="#">
+                        <div class="xl:w-56 lg:w-56 w-40 mx-auto">
+                            <img src="../images-shoes/row12.jpeg" alt="shoes-img" class="w-full py-7" />
+                        </div>
+                        <div class="px-4 pb-4 text-sm">
+                            <div>
+                                <h2 class="text-gray-900 font-bold text-base mb-2">
+                                    Dark Blue Shoes
+                                </h2>
+                                <p class="text-xs">
+                                    <i class="fa-solid fa-location-dot text-blue-500"></i>
+                                    Ramamandi Jalandhar, Punjab 144001
+                                </p>
+                            </div>
+                            <div class="flex items-center justify-between py-2 border-b border-gray-300">
+                                <p>
+                                    <span class="text-blue-500"><i class="fa-solid fa-star"></i> </span>4.2
+                                </p>
+                                <p>34 Mins</p>
+                                <p>रु 799</p>
+                            </div>
+                            <div class="mt-4 flex items-center">
+                                <span><img src="../icons8-discount-80.png" alt="" class="w-5 mr-2" /></span>
+                                <p>60% Off | Use Try New</p>
+                            </div>
+                        </div>
+                    </a>
+                </div>
             </div>
-            <div class="px-4 pb-4 text-sm">
-              <div>
-                <h2 class="text-gray-900 font-bold text-base mb-2">
-                  Shoes shop 1
-                </h2>
-                <p class="text-xs">
-                  <i class="fa-solid fa-location-dot text-blue-500"></i>
-                  Ramamandi Jalandhar, Punjab 144001
-                </p>
-              </div>
-              <div
-                class="flex items-center justify-between py-2 border-b border-gray-300"
-              >
-                <p>
-                  <span class="text-blue-500"
-                    ><i class="fa-solid fa-star"></i> </span
-                  >3.8
-                </p>
-                <p>34 Mins</p>
-                <p>रु 299</p>
-              </div>
-              <div class="mt-4 flex items-center">
-                <span
-                  ><img src="../icons8-discount-80.png" alt="" class="w-5 mr-2"
-                /></span>
-                <p>60% Off | Use Try New</p>
-              </div>
-            </div>
-          </a>
         </div>
-
-        <div class="w-full border border-blue-100 hover:border-blue-500">
-          <a href="#">
-            <div class="xl:w-56 lg:w-56 w-40 mx-auto">
-              <img src="../png-shoes/12.png" alt="shoes-img" class="w-full" />
-            </div>
-            <div class="px-4 pb-4 text-sm">
-              <div>
-                <h2 class="text-gray-900 font-bold text-base mb-2">
-                  Shoes shop 2
-                </h2>
-                <p class="text-xs">
-                  <i class="fa-solid fa-location-dot text-blue-500"></i>
-                  Ramamandi Jalandhar, Punjab 144001
-                </p>
-              </div>
-              <div
-                class="flex items-center justify-between py-2 border-b border-gray-300"
-              >
-                <p>
-                  <span class="text-blue-500"
-                    ><i class="fa-solid fa-star"></i> </span
-                  >3.8
-                </p>
-                <p>34 Mins</p>
-                <p>रु 350</p>
-              </div>
-              <div class="mt-4 flex items-center">
-                <span
-                  ><img src="../icons8-discount-80.png" alt="" class="w-5 mr-2"
-                /></span>
-                <p>60% Off | Use Try New</p>
-              </div>
-            </div>
-          </a>
-        </div>
-        <div class="w-full border border-blue-100 hover:border-blue-500">
-          <a href="#">
-            <div class="xl:w-56 lg:w-56 w-40 mx-auto">
-              <img src="../png-shoes/13.png" alt="shoes-img" class="w-full" />
-            </div>
-            <div class="px-4 pb-4 text-sm">
-              <div>
-                <h2 class="text-gray-900 font-bold text-base mb-2">
-                  Shoes shop 3
-                </h2>
-                <p class="text-xs">
-                  <i class="fa-solid fa-location-dot text-blue-500"></i>
-                  Ramamandi Jalandhar, Punjab 144001
-                </p>
-              </div>
-              <div
-                class="flex items-center justify-between py-2 border-b border-gray-300"
-              >
-                <p>
-                  <span class="text-blue-500"
-                    ><i class="fa-solid fa-star"></i> </span
-                  >3.8
-                </p>
-                <p>34 Mins</p>
-                <p>रु 259</p>
-              </div>
-              <div class="mt-4 flex items-center">
-                <span
-                  ><img src="../icons8-discount-80.png" alt="" class="w-5 mr-2"
-                /></span>
-                <p>60% Off | Use Try New</p>
-              </div>
-            </div>
-          </a>
-        </div>
-        <div class="w-full border border-blue-100 hover:border-blue-500">
-          <a href="#">
-            <div class="xl:w-56 lg:w-56 w-40 mx-auto">
-              <img src="../png-shoes/14.png" alt="shoes-img" class="w-full" />
-            </div>
-            <div class="px-4 pb-4 text-sm">
-              <div>
-                <h2 class="text-gray-900 font-bold text-base mb-2">
-                  Shoes shop 4
-                </h2>
-                <p class="text-xs">
-                  <i class="fa-solid fa-location-dot text-blue-500"></i>
-                  Ramamandi Jalandhar, Punjab 144001
-                </p>
-              </div>
-              <div
-                class="flex items-center justify-between py-2 border-b border-gray-300"
-              >
-                <p>
-                  <span class="text-blue-500"
-                    ><i class="fa-solid fa-star"></i> </span
-                  >3.8
-                </p>
-                <p>34 Mins</p>
-                <p>रु 499</p>
-              </div>
-              <div class="mt-4 flex items-center">
-                <span
-                  ><img src="../icons8-discount-80.png" alt="" class="w-5 mr-2"
-                /></span>
-                <p>60% Off | Use Try New</p>
-              </div>
-            </div>
-          </a>
-        </div>
-        <!-- card second row -->
-        <div class="w-full border border-blue-100 hover:border-blue-500">
-          <a href="#">
-            <div class="xl:w-56 lg:w-56 w-40 mx-auto">
-              <img
-                src="../images-shoes/row110.jpeg"
-                alt="shoes-img"
-                class="w-full py-10"
-              />
-            </div>
-            <div class="px-4 pb-4 text-sm">
-              <div>
-                <h2 class="text-gray-900 font-bold text-base mb-2">
-                  Shoes shop 4
-                </h2>
-                <p class="text-xs">
-                  <i class="fa-solid fa-location-dot text-blue-500"></i>
-                  Ramamandi Jalandhar, Punjab 144001
-                </p>
-              </div>
-              <div
-                class="flex items-center justify-between py-2 border-b border-gray-300"
-              >
-                <p>
-                  <span class="text-blue-500"
-                    ><i class="fa-solid fa-star"></i> </span
-                  >3.8
-                </p>
-                <p>34 Mins</p>
-                <p>रु 200</p>
-              </div>
-              <div class="mt-4 flex items-center">
-                <span
-                  ><img src="../icons8-discount-80.png" alt="" class="w-5 mr-2"
-                /></span>
-                <p>60% Off | Use Try New</p>
-              </div>
-            </div>
-          </a>
-        </div>
-        <div class="w-full border border-blue-100 hover:border-blue-500">
-          <a href="#">
-            <div class="xl:w-56 lg:w-56 w-40 mx-auto">
-              <img
-                src="../images-shoes/row111.jpeg"
-                alt="shoes-img"
-                class="w-full py-4"
-              />
-            </div>
-            <div class="px-4 pb-4 text-sm">
-              <div>
-                <h2 class="text-gray-900 font-bold text-base mb-2">
-                  Shoes shop 4
-                </h2>
-                <p class="text-xs">
-                  <i class="fa-solid fa-location-dot text-blue-500"></i>
-                  Ramamandi Jalandhar, Punjab 144001
-                </p>
-              </div>
-              <div
-                class="flex items-center justify-between py-2 border-b border-gray-300"
-              >
-                <p>
-                  <span class="text-blue-500"
-                    ><i class="fa-solid fa-star"></i> </span
-                  >3.8
-                </p>
-                <p>34 Mins</p>
-                <p>रु 200</p>
-              </div>
-              <div class="mt-4 flex items-center">
-                <span
-                  ><img src="../icons8-discount-80.png" alt="" class="w-5 mr-2"
-                /></span>
-                <p>60% Off | Use Try New</p>
-              </div>
-            </div>
-          </a>
-        </div>
-        <div class="w-full border border-blue-100 hover:border-blue-500">
-          <a href="#">
-            <div class="xl:w-56 lg:w-56 w-40 mx-auto">
-              <img
-                src="../images-shoes/row112.jpeg"
-                alt="shoes-img"
-                class="w-full py-8"
-              />
-            </div>
-            <div class="px-4 pb-4 text-sm">
-              <div>
-                <h2 class="text-gray-900 font-bold text-base mb-2">
-                  Shoes shop 4
-                </h2>
-                <p class="text-xs">
-                  <i class="fa-solid fa-location-dot text-blue-500"></i>
-                  Ramamandi Jalandhar, Punjab 144001
-                </p>
-              </div>
-              <div
-                class="flex items-center justify-between py-2 border-b border-gray-300"
-              >
-                <p>
-                  <span class="text-blue-500"
-                    ><i class="fa-solid fa-star"></i> </span
-                  >3.8
-                </p>
-                <p>34 Mins</p>
-                <p>रु 200</p>
-              </div>
-              <div class="mt-4 flex items-center">
-                <span
-                  ><img src="../icons8-discount-80.png" alt="" class="w-5 mr-2"
-                /></span>
-                <p>60% Off | Use Try New</p>
-              </div>
-            </div>
-          </a>
-        </div>
-        <div class="w-full border border-blue-100 hover:border-blue-500">
-          <a href="#">
-            <div class="xl:w-56 lg:w-56 w-40 mx-auto">
-              <img
-                src="../images-shoes/row12.jpeg"
-                alt="shoes-img"
-                class="w-full py-5"
-              />
-            </div>
-            <div class="px-4 pb-4 text-sm">
-              <div>
-                <h2 class="text-gray-900 font-bold text-base mb-2">
-                  Shoes shop 4
-                </h2>
-                <p class="text-xs">
-                  <i class="fa-solid fa-location-dot text-blue-500"></i>
-                  Ramamandi Jalandhar, Punjab 144001
-                </p>
-              </div>
-              <div
-                class="flex items-center justify-between py-2 border-b border-gray-300"
-              >
-                <p>
-                  <span class="text-blue-500"
-                    ><i class="fa-solid fa-star"></i> </span
-                  >3.8
-                </p>
-                <p>34 Mins</p>
-                <p>रु 200</p>
-              </div>
-              <div class="mt-4 flex items-center">
-                <span
-                  ><img src="../icons8-discount-80.png" alt="" class="w-5 mr-2"
-                /></span>
-                <p>60% Off | Use Try New</p>
-              </div>
-            </div>
-          </a>
-        </div>
-        <!-- card third row -->
-        <div class="w-full border border-blue-100 hover:border-blue-500">
-          <a href="#">
-            <div class="xl:w-56 lg:w-56 w-40 mx-auto">
-              <img
-                src="../images-shoes/row13.jpeg"
-                alt="shoes-img"
-                class="w-full py-10"
-              />
-            </div>
-            <div class="px-4 pb-4 text-sm">
-              <div>
-                <h2 class="text-gray-900 font-bold text-base mb-2">
-                  Shoes shop 4
-                </h2>
-                <p class="text-xs">
-                  <i class="fa-solid fa-location-dot text-blue-500"></i>
-                  Ramamandi Jalandhar, Punjab 144001
-                </p>
-              </div>
-              <div
-                class="flex items-center justify-between py-2 border-b border-gray-300"
-              >
-                <p>
-                  <span class="text-blue-500"
-                    ><i class="fa-solid fa-star"></i> </span
-                  >3.8
-                </p>
-                <p>34 Mins</p>
-                <p>रु 200</p>
-              </div>
-              <div class="mt-4 flex items-center">
-                <span
-                  ><img src="../icons8-discount-80.png" alt="" class="w-5 mr-2"
-                /></span>
-                <p>60% Off | Use Try New</p>
-              </div>
-            </div>
-          </a>
-        </div>
-        <div class="w-full border border-blue-100 hover:border-blue-500">
-          <a href="#">
-            <div class="w-xl:w-56 lg:w-56 w-40 mx-auto">
-              <img
-                src="../images-shoes/row14.jpeg"
-                alt="shoes-img"
-                class="w-full py-6"
-              />
-            </div>
-            <div class="px-4 pb-4 text-sm">
-              <div>
-                <h2 class="text-gray-900 font-bold text-base mb-2">
-                  Shoes shop 4
-                </h2>
-                <p class="text-xs">
-                  <i class="fa-solid fa-location-dot text-blue-500"></i>
-                  Ramamandi Jalandhar, Punjab 144001
-                </p>
-              </div>
-              <div
-                class="flex items-center justify-between py-2 border-b border-gray-300"
-              >
-                <p>
-                  <span class="text-blue-500"
-                    ><i class="fa-solid fa-star"></i> </span
-                  >3.8
-                </p>
-                <p>34 Mins</p>
-                <p>रु 200</p>
-              </div>
-              <div class="mt-4 flex items-center">
-                <span
-                  ><img src="../icons8-discount-80.png" alt="" class="w-5 mr-2"
-                /></span>
-                <p>60% Off | Use Try New</p>
-              </div>
-            </div>
-          </a>
-        </div>
-        <div class="w-full border border-blue-100 hover:border-blue-500">
-          <a href="#">
-            <div class="w-xl:w-56 lg:w-56 w-40 mx-auto">
-              <img
-                src="../images-shoes/row15.jpeg"
-                alt="shoes-img"
-                class="w-full py-6"
-              />
-            </div>
-            <div class="px-4 pb-4 text-sm">
-              <div>
-                <h2 class="text-gray-900 font-bold text-base mb-2">
-                  Shoes shop 4
-                </h2>
-                <p class="text-xs">
-                  <i class="fa-solid fa-location-dot text-blue-500"></i>
-                  Ramamandi Jalandhar, Punjab 144001
-                </p>
-              </div>
-              <div
-                class="flex items-center justify-between py-2 border-b border-gray-300"
-              >
-                <p>
-                  <span class="text-blue-500"
-                    ><i class="fa-solid fa-star"></i> </span
-                  >3.8
-                </p>
-                <p>34 Mins</p>
-                <p>रु 200</p>
-              </div>
-              <div class="mt-4 flex items-center">
-                <span
-                  ><img src="../icons8-discount-80.png" alt="" class="w-5 mr-2"
-                /></span>
-                <p>60% Off | Use Try New</p>
-              </div>
-            </div>
-          </a>
-        </div>
-        <div class="w-full border border-blue-100 hover:border-blue-500">
-          <a href="#">
-            <div class="w-xl:w-56 lg:w-56 w-40 mx-auto">
-              <img
-                src="../images-shoes/row16.jpeg"
-                alt="shoes-img"
-                class="w-full py-11"
-              />
-            </div>
-            <div class="px-4 pb-4 text-sm">
-              <div>
-                <h2 class="text-gray-900 font-bold text-base mb-2">
-                  Shoes shop 4
-                </h2>
-                <p class="text-xs">
-                  <i class="fa-solid fa-location-dot text-blue-500"></i>
-                  Ramamandi Jalandhar, Punjab 144001
-                </p>
-              </div>
-              <div
-                class="flex items-center justify-between py-2 border-b border-gray-300"
-              >
-                <p>
-                  <span class="text-blue-500"
-                    ><i class="fa-solid fa-star"></i> </span
-                  >3.8
-                </p>
-                <p>34 Mins</p>
-                <p>रु 200</p>
-              </div>
-              <div class="mt-4 flex items-center">
-                <span
-                  ><img src="../icons8-discount-80.png" alt="" class="w-5 mr-2"
-                /></span>
-                <p>60% Off | Use Try New</p>
-              </div>
-            </div>
-          </a>
-        </div>
-      </div>
     </section>
  <!-- footer start -->
  <footer class="text-gray-400 body-font bg-gray-900">
